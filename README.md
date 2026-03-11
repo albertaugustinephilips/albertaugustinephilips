@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Albert%20Augustine&fontSize=50" alt="Banner" width="100%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=root@albert:~%24+whoami;Albert+Augustine;Architect+%7C+.NET+Veteran+%7C+AI+Explorer;Exploring+Agentic+AI+..." alt="Typing SVG" />
+  </a>
 </p>
 
 ## 👋 About Me
@@ -55,7 +57,6 @@ I design scalable, reliable, and secure systems with a strong focus on software 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=albertaugustinephilips&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertaugustinephilips&layout=compact&theme=radical&hide_border=true&hide=html,css,javascript,markdown,json&langs_count=6" alt="Top Languages" height="180px" />
 </p>
 
