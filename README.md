@@ -22,11 +22,6 @@ I design scalable, reliable, and secure systems with a strong focus on software 
 ## 🔹 Tech Stack & Tools
 
 ### **Cloud**
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logods.io/badge/Docker-2496ED?logotps://img.shields.io/badge/Terraform-844FD9CDB?logo=azure&ctions-2088FF?logo=github?logo=o/badge/JavaScript-F7DF1E?logo=javascript&n-3776AB?logo=ogo=center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albertaugustineow_icons=true&hide_border=true
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertaugustinephilorder=true
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercelop-langs/?username=albertaugustinephilips&layout=compact&hide_border=true
 </p>
