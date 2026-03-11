@@ -21,46 +21,6 @@ I design scalable, reliable, and secure systems with a strong focus on software 
 
 ## 🔹 Tech Stack & Tools
 
-### **Cloud**
-<p align="center">
-  <img src="https://github-readme-stats.vercelop-langs/?username=albertaugustinephilips&layout=compact&hide_border=true
-</p>
-
----
-
-## 🔹 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albertaugustinephilips&theme=github-light&hide_border
-
----
-
-## 🔹 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/albertaugustinephilips/albertaugustinephilips/output/github-congrid-snake.svg
-</p>
-
----
-
-## 🔹 Featured Projects
-
-### **1️⃣ System Design Blueprints**
-Architectural patterns, reference diagrams, and real‑world scalable system examples.  
-🔗 *Coming Soon*
-
----
-
-### **2️⃣ Cloud‑Native Samples**
-Hands‑on samples with Azure/AWS, Kubernetes, containers, and IaC (Terraform/Bicep).  
-🔗 *Coming Soon*
-
----
-
-### **3️⃣ DevOps & Automation Tools**
-Automation scripts, CLI utilities, and engineering accelerators.  
-🔗 *Coming Soon*
-
 ---
 
 ## 🔹 Connect With Me
