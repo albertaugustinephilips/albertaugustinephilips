@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Albert%20Augustine%20Philips&fontSize=50" alt="Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Albert%20Augustine&fontSize=50" alt="Banner" width="100%" />
 </p>
 
 ## 👋 About Me
@@ -12,7 +12,7 @@ I design scalable, reliable, and secure systems with a strong focus on software 
 * 📐 Advocate of clean architecture & modern engineering practices
 * 📚 Constantly learning and experimenting with new technologies
 * ☁️ AWS Certified Solutions Architect
-*  🐍 **Exploring:** Deepening my expertise in Python and LangChain for LLM orchestration.
+* 🐍 **Exploring:** Deepening my expertise in Python and LangChain for LLM orchestration.
   
 ---
 
@@ -43,7 +43,7 @@ I design scalable, reliable, and secure systems with a strong focus on software 
 
 ### 📫 Let's Connect
 <p align="left">
-  <a href="www.linkedin.com/in/albertaugustinekonikkara" target="_blank">
+  <a href="https://www.linkedin.com/in/albertaugustinekonikkara" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
