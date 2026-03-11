@@ -65,10 +65,6 @@ Automation scripts, CLI utilities, and engineering accelerators.
 
 ## 🔹 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com"https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoe</a>
-  mailto:your-email@example.com<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor
-</p>
 
 ---
 
