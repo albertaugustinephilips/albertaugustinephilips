@@ -48,17 +48,15 @@ I design scalable, reliable, and secure systems with a strong focus on software 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=crewai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
-
-
 ---
 
 ### 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=albertaugustinephilips&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertaugustinephilips&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertaugustinephilips&layout=compact&theme=radical&hide_border=true&hide=html,css,javascript,markdown,json&langs_count=6" alt="Top Languages" height="180px" />
 </p>
 
 ---
