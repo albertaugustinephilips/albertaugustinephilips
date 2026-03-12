@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Enterprise_Architect-512BD4?style=flat-square&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architect-512BD4?style=flat-square&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/19_Years_Exp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Agentic_AI_Learner-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
